@@ -16,11 +16,11 @@ This script only uses standard Python libraries (`socket`, `sys`, `datetime`), s
 
 ## Usage
 
-1. Save the code into a file named `scanner.py`.
+1. Save the code into a file named `scan.py`.
 2. Open your terminal or command prompt.
 3. Run the script with Python:
    ```bash
-   python scanner.py
+   python scan.py
    ```
 4. Enter the target domain name or IP address when prompted.
 
